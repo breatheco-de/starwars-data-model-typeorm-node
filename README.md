@@ -19,6 +19,8 @@ Every time you want to generate your diagram just type: `$ npm run diagram` and 
 
 ## 📝Instructions
 
+Starty by reading the documentation on [how to create entities using TypeORM](https://typeorm.io/#/entities).
+
 Your Job is to update the `./entities/` directory with the files and code needed to replicate the starwars data model.
 
 The project is using the [TypeORM Node.js library](https://typeorm.io/#/) to generate the database.
