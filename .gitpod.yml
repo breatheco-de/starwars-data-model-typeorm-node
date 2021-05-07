@@ -1,0 +1,20 @@
+image: 
+  file: .gitpod.dockerfile
+ports: 
+    - port: 3000
+      onOpen: open-browser
+    - port: 3001
+      onOpen: open-preview
+    - port: 5432
+      onOpen: ignore
+tasks:
+    - init: >
+        (cp -n .env.example .env || true) &&
+        psql -U gitpod -c 'DROP DATABASE example;' &&
+        psql -U gitpod -c 'CREATE EXTENSION unaccent;' -d example
+    - command: >
+        npm install
+      openMode: split-right
+vscode:
+  extensions:
+    - cweijan.vscode-database-client2
