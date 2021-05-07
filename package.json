@@ -15,7 +15,7 @@
     "typescript": "^4.2.3"
   },
   "scripts": {
-    "diagram": "NODE_ENV=development tsc-watch --project . --onSuccess 'nodemon ./dist/app.js'"
+    "diagram": "tsc && typeorm-uml ormconfig.json"
   },
   "keywords": [],
   "author": "Alejandro Sanchez",

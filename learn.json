@@ -1,0 +1,14 @@
+{
+	"status": "published",
+	"title" : "Data Modeling a StarWars Blog using Node and Typescript",
+	"slug" : "starwars-data-model-typeorm-node",
+	"duration" : 3,
+	"difficulty": "easy",
+	"preview": "https://github.com/breatheco-de/starwars-data-model-typeorm-node/blob/master/assets/preview.png?raw=true",
+	"technologies": ["sql", "typeorm", "uml", "data-modeling", "node", "typescript"],
+	"syntax": "typescript",
+	"description" : "Use your recently adquired knowledge to build a data-model for your starwars blog",
+	"talents": [
+		{ "badge": "fully-committed", "points": 5 }
+	]
+}
