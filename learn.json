@@ -7,6 +7,7 @@
 	"preview": "https://github.com/breatheco-de/starwars-data-model-typeorm-node/blob/master/preview.png?raw=true",
 	"technologies": ["sql", "typeorm", "uml", "data-modeling", "node", "typescript"],
 	"syntax": "typescript",
+	"translations": ["us"],
 	"description" : "Use your recently adquired knowledge to build a data-model for your starwars blog",
 	"talents": [
 		{ "badge": "fully-committed", "points": 5 }
