@@ -33,5 +33,5 @@ El proyecto está utilizando la biblioteca [TypeORM Node.js library](https://typ
 - ¿Qué propiedades deberían ir dentro de la tabla de usuarios? o ¿Que propiedades deberian ir dentro de la tabla de personajes o de favoritos?
 - ¿Cuáles son las relaciones entre esas dos tablas?
 - Por favor, añade al menos 4 modelos con todas sus propiedades.
-- Genera el archivo "diagram.png" al final ejecutando `$ npm run diagram` en la consola.
+- Genera tu gragrama ejecutando `$ npm run diagram` en la consola.
 
