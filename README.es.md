@@ -13,7 +13,7 @@ Vamos a crear un diagrama de relación de entidades para la base de datos del Bl
 
 ## 💻 Instalación
 
-Este boilerplate ya viene con todo lo necesario: una base de datos postgre, la configuración de typescript y la configuración de TypeORM.
+Este boilerplate ya viene con todo lo necesario: una base de datos Postgres, la configuración de Typescript y la configuración de TypeORM.
 
 Cada vez que quieras generar tu diagrama sólo tienes que escribir `$ npm run diagram` y se imprimirá un enlace URL a la imagen de tu diagrama.
 
