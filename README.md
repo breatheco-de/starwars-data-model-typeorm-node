@@ -33,6 +33,6 @@ The project is using the [TypeORM Node.js library](https://typeorm.io/#/) to gen
 - What properties should go inside the user? or inside the Character or Favorite table?
 - What are the relationships between those tables?
 - Please add at least 4 models with all of its properties.
-- Generate the diagram.png file at the end by running `$ npm run diagram` on the console.
+- Generate your diagram by running `$ npm run diagram` on the console.
 
 
