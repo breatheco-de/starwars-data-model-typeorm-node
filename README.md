@@ -1,8 +1,8 @@
 # StarWars blog database
 
-Inside he `./entities` directory you will find a `./entities/User.js` classe describing an example User database entity (table).
+Inside the `./entities` directory you will find a `./entities/User.js` class describing an example User database entity (table).
 
-Here is a 4min video explaining what UML is: [https://www.youtube.com/watch?v=UI6lqHOVHic](https://www.youtube.com/watch?v=UI6lqHOVHic)
+Here is a `4min` video explaining what UML is: [https://www.youtube.com/watch?v=UI6lqHOVHic](https://www.youtube.com/watch?v=UI6lqHOVHic)
 
 We are going to be creating the Entity Relationship Diagram for your StarWars Blog Database, a very similar diagram to this one:
 
@@ -13,7 +13,7 @@ We are going to be creating the Entity Relationship Diagram for your StarWars Bl
 
 ## 💻 Instalation
 
-This boilerplate already comes with everything you need: a postgre database, the typescript configuration and the TypeORM configuration.
+This boilerplate already comes with everything you need: a postgres database, the typescript configuration and the TypeORM configuration.
 
 Every time you want to generate your diagram just type: `$ npm run diagram` and it will print a URL link to your diagram image.
 
