@@ -11,5 +11,7 @@
 	"description" : "Use your recently adquired knowledge to build a data-model for your starwars blog",
 	"talents": [
 		{ "badge": "fully-committed", "points": 5 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
