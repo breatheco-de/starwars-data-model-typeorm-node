@@ -1,4 +1,6 @@
+<!--hide-->
 # StarWars blog database
+<!--endhide-->
 
 Inside the `./entities` directory you will find a `./entities/User.js` class describing an example User database entity (table).
 
@@ -13,15 +15,15 @@ We are going to be creating the Entity Relationship Diagram for your StarWars Bl
 
 ## 💻 Instalation
 
-This boilerplate already comes with everything you need: a postgres database, the typescript configuration and the TypeORM configuration.
+This boilerplate already comes with everything you need: a postgres database, the typescript configuration, and the TypeORM configuration.
 
 Every time you want to generate your diagram just type: `$ npm run diagram` and it will print a URL link to your diagram image.
 
 ## 📝Instructions
 
-Starty by reading the documentation on [how to create entities using TypeORM](https://typeorm.io/#/entities).
+Start by reading the documentation on [how to create entities using TypeORM](https://typeorm.io/#/entities).
 
-Your Job is to update the `./entities/` directory with the files and code needed to replicate the starwars data model.
+Your Job is to update the `./entities/` directory with the files and code needed to replicate the StarWars data model.
 
 The project is using the [TypeORM Node.js library](https://typeorm.io/#/) to generate the database.
 
