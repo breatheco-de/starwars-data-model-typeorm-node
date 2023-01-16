@@ -1,4 +1,6 @@
+<!--hide-->
 # Blog Base de datos de Starwars 
+<!--endhide-->
 
 Dentro del directorio `./entities` encontrarás una clase `./entities/User.js` que describe un ejemplo de base de datos de usuarios (tabla).
 
