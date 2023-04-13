@@ -1,6 +1,6 @@
 {
 	"type": "postgres",
-	"url": "postgres://gitpod@localhost:5432/example",
+	"url": "postgres://gitpod:postgres@localhost:5432/example",
 	"entities": ["./dist/*.js"],
 	"logging": false,
     "synchronize": true
