@@ -1,6 +1,9 @@
 {
 	"status": "published",
-	"title" : "Data Modeling a StarWars Blog using Node and Typescript",
+	"title" : {
+		"us":"Data Modeling a StarWars Blog using Node and Typescript",
+		"es":"Modelado de datos de un blog de Star Wars con Node y Typescript"
+	},
 	"slug" : "starwars-data-model-typeorm-node",
 	"duration" : 3,
 	"difficulty": "easy",
@@ -8,10 +11,16 @@
 	"technologies": ["sql", "typeorm", "uml", "data-modeling", "node", "typescript"],
 	"syntax": "typescript",
 	"translations": ["us"],
-	"description" : "Use your recently adquired knowledge to build a data-model for your starwars blog",
+	"description" :  {
+		"us":"Use your recently acquired knowledge to build a detailed data model for your StarWars blog. Create the Entity Relationship Diagram (ERD) using TypeORM and a PostgreSQL database. Include tables like User, Character, Planet, and Favorite, defining their properties and relationships.",
+		"es":"Usa tus conocimientos recién adquiridos para construir un modelo de datos detallado para tu blog de StarWars. Crea el Diagrama de Relaciones de Entidades (ERD) usando TypeORM y una base de datos PostgreSQL. Incluye tablas como Usuario, Personaje, Planeta y Favorito, definiendo propiedades y relaciones."
+	},
 	"talents": [
 		{ "badge": "fully-committed", "points": 5 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+	"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=453"
+	  }
 }
